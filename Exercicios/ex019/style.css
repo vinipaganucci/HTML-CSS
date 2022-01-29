@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "ratm" ;
+    src: url(fonts/JMH\ Typewriter.ttf);
+   
+}
+
+body{
+
+    background-color: rgb(201, 235, 150);
+    font-family: ratm,'Times New Roman', Times, serif;
+}
+
+h1{
+    color: rgb(73, 85, 54);
+    text-decoration: underline;
+}
+
+h1#principal{
+
+    text-align: center;
+    background-color: rgb(123, 148, 81);
+    text-decoration: none;
+}
+
+h2{
+    color: rgb(91, 141, 15);
+    
+    
+}
+
+.basico{
+    color: rgb(91, 141, 15);
+}
+
+.intermediario{
+
+    color: rgb(151, 151, 5);
+}
+
+.avancado{
+
+    color: rgb(138, 2, 2);
+}
