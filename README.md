@@ -1,5 +1,5 @@
 # HTML-CSS
- Curso de HTML5 e CSS3
+ HTML5 and CSS3 Course
 
  I'm learning how to create web pages and now I will manage my repositories.
 
